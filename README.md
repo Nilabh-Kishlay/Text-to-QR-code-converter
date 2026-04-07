@@ -46,13 +46,13 @@ qr-generator/
 
 ## 🌐 Live Demo
 
-👉 https://Nilabh-Kishlay.github.io/qr-generator/
+👉 https://Nilabh-Kishlay.github.io/Text-to-QR-code-converter/
 
 ---
 
 ## 📸 Preview
 
-![QR Generator Screenshot](assets/QR Generator image.png)
+![QR Generator Screenshot](QRscreenshort.png)
 
 ---
 
