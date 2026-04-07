@@ -46,13 +46,13 @@ qr-generator/
 
 ## 🌐 Live Demo
 
-👉 https://username.github.io/qr-generator/
+👉 https://Nilabh-Kishlay.github.io/qr-generator/
 
 ---
 
 ## 📸 Preview
 
-(Add your project screenshot here)
+QR Generator image.png
 
 ---
 
@@ -61,7 +61,7 @@ qr-generator/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/qr-generator.git
+git clone https://github.com/Nilabh-Kishlay/qr-generator.git
 ```
 
 2. Open the folder
