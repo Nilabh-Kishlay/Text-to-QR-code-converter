@@ -52,7 +52,7 @@ qr-generator/
 
 ## 📸 Preview
 
-![QR Generator Screenshot]("assets/QRscreenshot.png")
+![QR Generator Screenshot]("QRscreenshot.png")
 
 
 ---
